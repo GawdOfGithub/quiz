@@ -1,5 +1,5 @@
 import './App.css'
-function App () {
+export default function App () {
   return (
     <>
     <div className='text-5xl font-bold '>Minimilist vite,react,typescript starrter pack</div>
@@ -7,4 +7,3 @@ function App () {
   )
 }
 
-export default App
